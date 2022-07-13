@@ -148,7 +148,7 @@ footer .Saiba-mais{
             z-index: 1000;
         }
  
-        .fa-whatsapp {
+        .fa fa-whatsapp {
             margin-top: 2px;
         }
 
@@ -282,6 +282,7 @@ section.caixa{  /* <section class="especialidades"> */
 
 
 
+
 @media screen and (max-width: 768px){
 
 
@@ -379,8 +380,8 @@ section.caixa{  /* <section class="especialidades"> */
 
 
 .box-caixa {
-    margin:30px 100px;
-    padding: 0 20px;  /* espaçamendo dos itens pros lados*/
+    margin:50px 100px;
+    padding: 0 0px;  /* espaçamendo dos itens pros lados*/
     flex-direction: column; /* deixa o texto em coluna*/
     
 }
@@ -422,7 +423,7 @@ section.caixa{  /* <section class="especialidades"> */
    
 
 footer{
-    border-bottom: 80px solid #0000CD; /* deixa botão em 3D  e com borda*/
+    border-bottom: 10px solid #0000CD; /* deixa botão em 3D  e com borda*/
     background: #000000;
     padding: 0px 0;
 }
